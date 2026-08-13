@@ -1,1 +1,3 @@
 # python
+
+#pip install windrose
